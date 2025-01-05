@@ -18,8 +18,6 @@ To get started with ColorMood, download the app from the App Store and explore t
 
 ## Feedback
 
-We'd love to hear your thoughts and feedback on ColorMood. Feel free to reach out to us with any suggestions or comments to help us improve the app and enhance your experience.
+I'd love to hear your thoughts and feedback on ColorMood. Feel free to reach out to me with any suggestions or comments to help me improve the app and enhance your experience.
 
 ---
-
-Thank you for choosing ColorMood to explore the world of colors!
